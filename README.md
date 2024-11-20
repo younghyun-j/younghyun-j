@@ -5,7 +5,7 @@
 <div align="center">
   <h3>💻 Work Experience</h3>
   <div>
-    <h4>Newelcture (2023.11 ~ 2024.03)</h4>
+    <h4>Newelcture (2022.07 ~ 2024.03)</h4>
     <a href="https://newlecture-corp.github.io/newtil-css/"> - Newtil CSS</a>
   </div>
 </div>
